@@ -22,12 +22,10 @@ Finally, an app that allows instructors to quickly create quizzes and print the 
 | Gaye Proctor | [gayebroni](https://github.com/gayebroni) | About Me, Presentation, Documentation, Sample Questions for Seed, Came Up with the name "Quizam" |
 
 ## Demo
-Screenshots and Video displaying the different pages: 
+
+
+Video displaying the different pages: 
 https://drive.google.com/file/d/1_KXyxYcx39kmRfrv9kGKE4mHwOGYp_4d/view?usp=sharing
-
-
-
-
 
 
 ## Usage 
