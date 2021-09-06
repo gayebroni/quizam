@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1_KXyxYcx39kmRfrv9kGKE4mHwOGYp_4d/view?usp=shari
 
 ## Usage 
 
-To use this project, go to the live site by clicking on "HERE":
+To use this project, go to the live site by clicking on the blue "HERE":
 # [HERE](https://young-savannah-86726.herokuapp.com/)!
 
 ## Contribution
