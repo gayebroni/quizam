@@ -23,8 +23,11 @@ Finally, an app that allows instructors to quickly create quizzes and print the 
 
 ## Demo
 Screenshots and Video displaying the different pages: 
-
 https://drive.google.com/file/d/1_KXyxYcx39kmRfrv9kGKE4mHwOGYp_4d/view?usp=sharing
+
+public/images/quizzam-landingpage-main-login.png
+
+public/images/quizzam-viewquestionsandanswers.png
 
 
 
