@@ -34,7 +34,7 @@ public/images/quizzam-viewquestionsandanswers.png
 
 
 ## Usage 
-To use this project, go to the live site [here](https://quizam.herokuapp.com/)!
+To use this project, go to the live site [here](https://young-savannah-86726.herokuapp.com/)!
 
 ## Contribution
 To contribute to this project, clone or fork the repo, then run `npm i express puppeteer mysql2 sequelize bcrypt express-handlebars`.
