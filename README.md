@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1_KXyxYcx39kmRfrv9kGKE4mHwOGYp_4d/view?usp=shari
 
 
 ## Usage 
-To use this project, go to the live site [here](https://young-savannah-86726.herokuapp.com/)!
+To use this project, go to the live site [HERE](https://young-savannah-86726.herokuapp.com/)!
 
 ## Contribution
 To contribute to this project, clone or fork the repo, then run `npm i express puppeteer mysql2 sequelize bcrypt express-handlebars`.
