@@ -42,7 +42,7 @@ Then, make some edits in a new branch and submit a PR. It’ll be merged to our 
 You can test this project with your own dummy data.
 
 ## Questions
-Reach out to the repo owner, EmilyNecciai at enmayeski@gmail.com.
+Reach out to the repo owner, EmilyNecciai at enmayeski@gmail.com or cohort, Gaye Proctor at gayebroni@yahoo.com.
 
 
 
