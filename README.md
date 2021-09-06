@@ -1,4 +1,4 @@
-# quizZAM
+# QuizZam
 
 Finally, an app that allows instructors to quickly create quizzes and print the quiz to a PDF to distribute to their students, as well as keep a copy for themselves with the answer key!
 
